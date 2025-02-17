@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm Aadi Jain!  
-### 🎓 First-Year CSE Student at NIT Bhopal (MANIT Bhopal)  
+### 🎓 First-Year CSE Student at NIT Bhopal  
 
 🚀 Passionate about technology, problem-solving, and building real-world projects.  
 💻 Currently diving into **Web Development** and exploring the depths of **Python programming**.  
